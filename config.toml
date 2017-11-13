@@ -1,0 +1,15 @@
+baseURL = "https://com267f17p4.github.io/"
+languageCode = "en-us"
+title = "Social Media and Sports Journalism"
+theme = "xmin"
+PygmentsCodeFences = true
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+[params]
+    footer = "&copy; Carl Colglazier & Justin Capoccia 2017"
