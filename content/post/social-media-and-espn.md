@@ -19,7 +19,7 @@ which has managed to adapt through the “new media” era to remain the
 top sports website on the internet despite competition from others
 like Bleacher Report and Yahoo Sports.
 
-{{< figure src="/espn.png" title="A screenshot of ESPN's website." >}}
+{{< figure src="espn.png" title="A screenshot of ESPN's website." >}}
 
 ESPN’s website launched in 1995 and was initially called
 `ESPNet.SportsZone.com`. In its early stages, it was nowhere near as
@@ -42,7 +42,7 @@ work for ESPN. Within ESPN’s online page there are other sites within
 the site such as ESPN Deportes, SportsNation, and X games giving users
 more ways to get the information they need.
 
-{{< figure src="/espn-daily.png" title="ESPN Daily offers a streamlined news experience via email." >}}
+{{< figure src="espn-daily.png" title="ESPN Daily offers a streamlined news experience via email." >}}
 
 You can connect with “The Worldwide Leader of Sports” via Facebook,
 Twitter, Instagram, Snapchat, and even ESPN Daily which after signing
@@ -61,7 +61,7 @@ should direct their conversations. This new wave of engagement which
 was not possible a decade ago has definitely made a huge impact in how
 ESPN can interact with its viewers.
 
-{{< figure src="/espn-twitter.png" title="ESPN has millions of Twitter followers." >}}
+{{< figure src="espn-twitter.png" title="ESPN has millions of Twitter followers." >}}
 
 Sometimes there can be flaws in regards to the use of social media;
 not just for viewers and fans but also for those employed by said
@@ -106,7 +106,7 @@ Hill incident, we must have some sort of awareness as to the dialogue
 we choose to take on and the execution of said dialogue on social
 media platforms.
 
-{{< figure src="/espn-hill.png" title="ESPN promotes social media profiles run by their employees. Jemele Hill's official ESPN bio includes an embed of her most recent tweet." width="50%">}}
+{{< figure src="espn-hill.png" title="ESPN promotes social media profiles run by their employees. Jemele Hill's official ESPN bio includes an embed of her most recent tweet." width="50%">}}
 
 As a sports fan in general, I love the engagement that social media
 has brought to the world of sports and through ESPN. Its convenience
